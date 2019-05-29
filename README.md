@@ -1,2 +1,2 @@
-# automato
-Automato simples implementado em C++
+# Automato
+Automato simples implementado em C++, utilizando o CodeBLocks como IDE.
