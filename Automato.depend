@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1541531208 source:c:\users\angelo\documents\compiladores\automato\src\estado.cpp
+	"Estado.h"
+	<cstdlib>
+	<string>
+	<sstream>
+
+1541528108 c:\users\angelo\documents\compiladores\automato\include\estado.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1541531208 source:c:\users\angelo\documents\compiladores\automato\main.cpp
+	<iostream>
+	<fstream>
+	"Estado.h"
+
